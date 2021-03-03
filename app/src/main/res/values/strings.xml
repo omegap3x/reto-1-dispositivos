@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Primer Reto</string>
+    <string name="listarArtista">Listar Artista</string>
+    <string name="HojaDeVida">Hoja de Vida</string>
+    <string name="Reto">Reto 1</string>
+    <string name="Hoja">Hoja De Vida</string>
+    <string name="Artistas">Artistas</string>
+    <string name="nombreSanti">Santiago Ospina</string>
+    <string name="descripcionSanti">Mi descripción</string>
+    <string name="nombreJeff">Jefferson Pérez</string>
+    <string name="descripcionJeff">Soy estudiante de ingenieria y desarrollador de software</string>
+    <string name="romeo">Romeo Santos</string>
+    <string name="daddy">Daddy Yankee</string>
+    <string name="karol">Karol G</string>
+    <string name="omar">Don Omar</string>
+    <string name="fonsi">Luis Fonsi</string>
+    <string name="vacio">Artistas</string>
+    <string name="digiteartista">Digite un artista</string>
+</resources>

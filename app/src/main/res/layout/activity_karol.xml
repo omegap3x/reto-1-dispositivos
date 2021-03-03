@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Karol">
+
+    <ImageButton
+        android:id="@+id/btn_karol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playkarol"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.216"
+        app:srcCompat="@drawable/karol" />
+
+    <ImageButton
+        android:id="@+id/btn_stopkarol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="180dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="183dp"
+        android:layout_marginBottom="314dp"
+        android:onClick="stopkarol"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_karol"
+        app:srcCompat="@drawable/ic_baseline_stop_24" />
+</androidx.constraintlayout.widget.ConstraintLayout>
