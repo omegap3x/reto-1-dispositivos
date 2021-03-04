@@ -2,11 +2,11 @@
     <string name="app_name">Primer Reto</string>
     <string name="listarArtista">Listar Artista</string>
     <string name="HojaDeVida">Hoja de Vida</string>
-    <string name="Reto">Reto 1</string>
-    <string name="Hoja">Hoja De Vida</string>
+    <string name="Reto">Bienvenido</string>
+    <string name="Hoja">Hoja de Vida</string>
     <string name="Artistas">Artistas</string>
     <string name="nombreSanti">Santiago Ospina</string>
-    <string name="descripcionSanti">Mi descripción</string>
+    <string name="descripcionSanti">Tengo 22 años, soy estudiante de Ing de sistemas y me gusta el deporte</string>
     <string name="nombreJeff">Jefferson Pérez</string>
     <string name="descripcionJeff">Soy estudiante de ingenieria y desarrollador de software</string>
     <string name="romeo">Romeo Santos</string>
@@ -15,5 +15,16 @@
     <string name="omar">Don Omar</string>
     <string name="fonsi">Luis Fonsi</string>
     <string name="vacio">Artistas</string>
-    <string name="digiteartista">Digite un artista</string>
+    <string name="digiteartista">Digite el nombre de un artista...</string>
+    <string name="nombre">Romeo Santos</string>
+    <string name="romeod">Romeo Santos (Nacido el 21 de julio de 1981), es un cantante, compositor, actor, productor discográfico y vocalista estadounidense de la banda de bachata Aventura. En 2002, la canción "Obsesión" alcanzó el número uno en Italia durante 16 semanas consecutivas. Lanzó varios álbumes con Aventura antes de que el grupo se separara. Desde entonces, Santos se ha embarcado en una carrera en solitario que ha generado siete canciones número uno en la lista Hot Latin Songs y dieciséis número uno en la lista Tropical Songs.</string>
+    <string name="daddyd">Ramón Luis Ayala Rodríguez (Nacido el 3 de febrero de 1976), conocido profesionalmente como Daddy Yankee, es un cantante, rapero, compositor, actor y productor discográfico puertorriqueño. Nació en Río Piedras, Puerto Rico,y se crió en el barrio Villa Kennedy Housing Projects. Daddy Yankee es el artista que acuñó la palabra Reggaeton en 1994 para describir el nuevo género musical que estaba surgiendo de Puerto Rico que sintetizaba hip-hop, música caribeña latina y ritmos reggae con rap y canto español. Es conocido como el "Rey del Reggaetón" por la crítica musical y los fans por igual. Daddy Yankee es a menudo citado como una influencia por otros artistas urbanos latinos.</string>
+    <string name="fonsid">Luis Alfonso Rodríguez López-Cepero (Nacido el 15 de abril de 1978), conocido por su nombre artístico Luis Fonsi (pronunciación en español: [رlwis رfonsi]), es un cantante, músico y compositor puertorriqueño. Es conocido por sus múltiples canciones, una de ellas es\"Despacito\"con el rapero puertorriqueño Daddy Yankee.  Fonsi recibió sus primeras nominaciones a los Premios Grammy Latinos en la categoría de Grabación del Año y ganó canción del año gracias a la canción\"Aquí Estoy Yo\". La canción también ganó tres Premios Billboard de la Música Latina. \"Despacito\" se convirtió en el mayor éxito de Fonsi ganando cuatro Premios Grammy Latinos, siete Premios Billboard de la Música Latina, cinco Premios Billboard de la Música y recibió tres nominaciones a los Premios Grammy. También ganó un Premio Latinoamericano de Música por\"Échame la Culpa\"con Demi Lovato.</string>
+    <string name="karold">Carolina Giraldo Navarro (Madrid,Colombia, 14 de febrero de 1991) es una cantante y compositora colombiana. Ella es predominantemente descrita como una artista de reggaeton y trap latino, pero ha experimentado con una variedad de otros géneros incluyendo reggae y sertaneja. También es conocida por su destacada presencia femenina en la escena del reggaetón. En 2018, ganó el Premio Grammy Latino a mejor artista nuevo,y ha sido nominada para varios premios Billboard de la Música Latina y premios Lo Nuestro.  Nacida y criada en Medellín, Giraldo lanzó su carrera cuando era adolescente, apareciendo en el spin-off colombiano de The X Factor. Se mudó a La Ciudad de Nueva York en 2014 para aprender más sobre la industria de la música y firmó con Universal Music Latino. Su colaboración con la cantante y rapera puertorriqueña Bad Bunny \" AhoraMe Llama\" se convirtió en su gran éxito, y fue el primer sencillo de su álbum debut Unstoppable, lanzado en 2017.</string>
+    <string name="omard">William Omar Landrón Rivera (Nacido el 10 de febrero de 1978), más conocido por su nombre artístico Don Omar,es un cantante y actor puertorriqueño de reggaeton. A veces se le conoce por sus apodos El Rey,y King of Kings (de música reggaetón). El 1 de septiembre de 2017, anunció que se retiraría después de una serie de conciertos en el Coliseo José Miguel Agrelot en Puerto Rico, programados para celebrarse los días 15, 16 y 17 de diciembre. Regresó a la música el 20 de abril de 2019 con su canción \"Single Ramayama\" con Farruko.</string>
+    <string name="s_daddy">Llamado de emergencia</string>
+    <string name="s_fonsi">Despacito</string>
+    <string name="s_karol">Bichota</string>
+    <string name="s_omar">Tabú</string>
+    <string name="s_romeo">Farsante</string>
 </resources>

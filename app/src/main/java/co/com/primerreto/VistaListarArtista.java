@@ -30,7 +30,6 @@ public class VistaListarArtista extends AppCompatActivity {
         ArrayAdapter<String> arrayAdapter = new ArrayAdapter<>(this, android.R.layout.select_dialog_item,artistas);
         autoComplete.setAdapter(arrayAdapter);
         autoComplete.setOnClickListener(v -> {
-
         });
     }
 
@@ -55,7 +54,6 @@ public class VistaListarArtista extends AppCompatActivity {
                 else if (getArtista(position)==getString(R.string.fonsi)){
                     goToFonsi(view);
                 }
-
             }
 
             @Override
